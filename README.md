@@ -1,6 +1,9 @@
 # ScrollingViewPager
 Android custom user interface
 
+# Demo:
+![Alt Text](https://github.com/Harpreet4u/ScrollingViewPager/demo.gif)
+
 # Details:
 
 First attempt to build custom user interface with resizing view pager on recyclerview scrolling.
