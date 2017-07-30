@@ -2,7 +2,7 @@
 Android custom user interface
 
 # Demo:
-![Alt Text](https://github.com/Harpreet4u/ScrollingViewPager/demo.gif)
+![Alt Text](https://github.com/Harpreet4u/ScrollingViewPager/blob/master/demo.gif)
 
 # Details:
 
